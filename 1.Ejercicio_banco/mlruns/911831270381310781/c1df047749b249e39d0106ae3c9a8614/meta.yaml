@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kim/Desktop/Machine%20Learning%203/1.Ejercicio_banco/mlruns/911831270381310781/c1df047749b249e39d0106ae3c9a8614/artifacts
+end_time: 1678449932314
+entry_point_name: ''
+experiment_id: '911831270381310781'
+lifecycle_stage: active
+run_id: c1df047749b249e39d0106ae3c9a8614
+run_name: untuned_random_forest
+run_uuid: c1df047749b249e39d0106ae3c9a8614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678449919505
+status: 3
+tags: []
+user_id: Kim
